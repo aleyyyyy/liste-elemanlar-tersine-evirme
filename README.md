@@ -1,1 +1,1 @@
-# liste-elemanlar-tersine-evirme
+# liste-elemanlar-tersine-cevirme
